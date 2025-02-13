@@ -25,8 +25,8 @@ Built with **HTML, CSS, and JavaScript**, the project includes:
 - **JavaScript (ES6)** – Interactive menu toggle and dynamic behavior.  
 
 ### **📸 Screenshots**  
-![image alt](https://github.com/codewithAnky/Food_Website/blob/4bf87fa3eae30136e5ee43b5809344aee5e10a19/image/Screenshot-1.png)
 ![image alt](https://github.com/codewithAnky/Food_Website/blob/4bf87fa3eae30136e5ee43b5809344aee5e10a19/image/Screenshot-2.png)
+![image alt](https://github.com/codewithAnky/Food_Website/blob/4bf87fa3eae30136e5ee43b5809344aee5e10a19/image/Screenshot-1.png)
 
 
 
