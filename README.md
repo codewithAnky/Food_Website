@@ -33,11 +33,11 @@ Built with **HTML, CSS, and JavaScript**, the project includes:
 ### **🚀 Getting Started**  
 1. Clone the repository:  
       ```sh
-   git clone https://github.com/your-username/NomNom-Express.git
+   https://github.com/codewithAnky/Food-Website
    ```
 2. Open in Browser
       ```sh
-   https://codewithanky.github.io/Food_Website/
+   https://codewithanky.github.io/Food-Website/
    ```
 
 ### **🎨 Customization**  
